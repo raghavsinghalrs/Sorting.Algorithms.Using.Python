@@ -1,5 +1,5 @@
 <h1>Sorting Agorithms using Python</h1>
-<h3>1.Bubble Sort</h3>:<p> Bubble Sort means finding the largest element first. For example:
+<h3>1.Bubble Sort:</h3><p> Bubble Sort means finding the largest element first. For example:
 
 I have an list of size 5:
 list = [8,7,5,4,1]
