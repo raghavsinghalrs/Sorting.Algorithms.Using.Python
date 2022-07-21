@@ -25,7 +25,7 @@ And atlast we swap the value 7 with min index.
 I have an list of size 5:
 list = [7,5,4,2,1]
 </p>
-<p>(i) Start with index 1 means value 5 it compares the value which is at previous index 7.
+<p>(i) Start with index 1 means value 5 it compares the value which is at previous index 7.<br>
 (ii) So 7 is greater than 5 , then it will swap the value. Using same way we will get our sorted list.
 </p>
  
