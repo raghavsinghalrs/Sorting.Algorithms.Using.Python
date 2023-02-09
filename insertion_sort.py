@@ -1,13 +1,8 @@
-list = [1,2,3,4,5]
+a = [4,3,2,5,1]
 
-def insertionSort(list):
+for i in range(1,len(a)):
+    for j in range(0,i):
+        if a[i]<a[j]:
+            a[i],a[j]=a[j],a[i]
 
-    for i in range(1, len(list)):
-        for j in range(i):
-
-            if list[j]>list[i]:
-                list[j],list[i] = list[i],list[j]
-            # print(list)
-    return list
-i = insertionSort(list)
-print(i)
+print(a)
